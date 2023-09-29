@@ -1,0 +1,7 @@
+path: ../Data
+train: images/train 
+val: images/val 
+
+names:
+  0: head
+  1: tail

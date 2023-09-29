@@ -1,0 +1,18 @@
+outs:
+- hash: md5
+  path: Weights
+  files:
+  - relpath: sperm_head-tail.onnx
+    md5: 1f244773d7eae447a1ec35162eb8eb7c
+    size: 184931487
+    cloud:
+      storage:
+        etag: 08faa5bd9fd1ce81031001
+        version_id: '1695949775655674'
+  - relpath: sperm_head-tail.pt
+    md5: 7b012adc31d1a39bcefdc05f3340120e
+    size: 92765589
+    cloud:
+      storage:
+        etag: 08c2a4caa2d1ce81031001
+        version_id: '1695949782159938'
